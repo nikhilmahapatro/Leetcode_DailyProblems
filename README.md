@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0073-set-matrix-zeroes) |
+| [3194-find-words-containing-character](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3639-zero-array-transformation-i) |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## String
+|  |
+| ------- |
+| [3194-find-words-containing-character](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3194-find-words-containing-character) |
 <!---LeetCode Topics End-->
