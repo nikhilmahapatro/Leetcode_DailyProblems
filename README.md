@@ -14,6 +14,7 @@
 ## Math
 |  |
 | ------- |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3321-type-of-triangle) |
 ## Sorting
 |  |
