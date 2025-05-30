@@ -72,6 +72,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
@@ -79,4 +80,8 @@
 | ------- |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Graph
+|  |
+| ------- |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 <!---LeetCode Topics End-->
