@@ -36,6 +36,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0073-set-matrix-zeroes) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Matrix
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | ------- |
 | [0135-candy](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0135-candy) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
@@ -71,6 +73,7 @@
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3194-find-words-containing-character) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Counting
@@ -112,4 +115,8 @@
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Stack
+|  |
+| ------- |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 <!---LeetCode Topics End-->
