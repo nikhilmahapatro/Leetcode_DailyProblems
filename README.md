@@ -87,6 +87,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0386-lexicographical-numbers) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -124,4 +125,8 @@
 | ------- |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
