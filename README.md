@@ -19,6 +19,7 @@
 ## Math
 |  |
 | ------- |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3321-type-of-triangle) |
@@ -53,6 +54,7 @@
 | [0135-candy](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0135-candy) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
