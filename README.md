@@ -98,6 +98,7 @@
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -169,4 +170,8 @@
 |  |
 | ------- |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
