@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0135-candy) |
 | [0945-snakes-and-ladders](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0945-snakes-and-ladders) |
@@ -47,6 +48,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0073-set-matrix-zeroes) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
