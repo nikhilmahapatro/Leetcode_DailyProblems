@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0073-set-matrix-zeroes](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0135-candy) |
 | [0945-snakes-and-ladders](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0945-snakes-and-ladders) |
@@ -177,6 +178,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Simulation
 |  |
@@ -190,4 +192,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
