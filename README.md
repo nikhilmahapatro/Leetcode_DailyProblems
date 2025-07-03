@@ -36,6 +36,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sorting
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
 |  |
 | ------- |
@@ -212,6 +214,7 @@
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
 | ------- |
@@ -220,6 +223,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0002-add-two-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
 | ------- |
