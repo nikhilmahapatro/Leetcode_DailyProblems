@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0073-set-matrix-zeroes](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0135-candy) |
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0945-snakes-and-ladders](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0945-snakes-and-ladders) |
@@ -143,6 +144,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0118-pascals-triangle) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
