@@ -11,6 +11,7 @@
 | [0135-candy](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0135-candy) |
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0945-snakes-and-ladders) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -97,6 +98,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -279,6 +281,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
