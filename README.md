@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0002-add-two-numbers) |
+| [0826-soup-servings](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0118-pascals-triangle) |
+| [0826-soup-servings](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -358,4 +360,8 @@
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
