@@ -62,6 +62,7 @@
 | [0326-power-of-three](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0867-new-21-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -167,6 +168,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0118-pascals-triangle) |
 | [0826-soup-servings](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -300,6 +302,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -379,4 +382,5 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
