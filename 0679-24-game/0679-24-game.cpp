@@ -19,7 +19,7 @@ class Solution {
         for (const double num : generate(nums[i], nums[j])) {
           vector<double> nextRound{num};
           for (int k = 0; k < nums.size(); ++k) {
-            if (k == i || k == j)  // Used in generate()
+            if (k == i || k == j)  // It is used in `generate()`.
               continue;
             nextRound.push_back(nums[k]);
           }
