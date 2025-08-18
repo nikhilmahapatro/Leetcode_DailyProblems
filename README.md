@@ -10,6 +10,7 @@
 | [0118-pascals-triangle](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0135-candy) |
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0945-snakes-and-ladders) |
@@ -61,6 +62,7 @@
 | [0231-power-of-two](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0867-new-21-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -353,6 +355,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Design
