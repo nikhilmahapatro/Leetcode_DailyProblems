@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0037-sudoku-solver](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0135-candy) |
@@ -122,6 +123,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0940-fruit-into-baskets) |
@@ -141,6 +143,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0945-snakes-and-ladders) |
@@ -384,6 +387,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
