@@ -160,6 +160,7 @@
 | [2689-rearranging-fruits](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2689-rearranging-fruits) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3678-design-task-manager](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -217,6 +218,7 @@
 | [2479-meeting-rooms-iii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3647-zero-array-transformation-iii) |
+| [3678-design-task-manager](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3678-design-task-manager) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -439,6 +441,7 @@
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3678-design-task-manager) |
 ## Hash Function
 |  |
 | ------- |
@@ -459,6 +462,7 @@
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
