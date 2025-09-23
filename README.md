@@ -55,6 +55,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3194-find-words-containing-character](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -162,6 +163,7 @@
 | [2479-meeting-rooms-iii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2689-rearranging-fruits](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2689-rearranging-fruits) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3678-design-task-manager](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3678-design-task-manager) |
@@ -312,6 +314,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
