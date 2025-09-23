@@ -276,6 +276,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0165-compare-version-numbers](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0165-compare-version-numbers) |
 | [1006-vowel-spellchecker](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -358,6 +359,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0165-compare-version-numbers) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2497-maximum-matching-of-players-with-trainers) |
