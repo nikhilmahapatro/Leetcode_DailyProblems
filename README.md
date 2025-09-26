@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0002-add-two-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0342-power-of-four) |
@@ -148,6 +149,7 @@
 | [0036-valid-sudoku](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0073-set-matrix-zeroes) |
+| [0166-fraction-to-recurring-decimal](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1006-vowel-spellchecker) |
@@ -279,6 +281,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0165-compare-version-numbers](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1264-maximum-number-of-words-you-can-type) |
