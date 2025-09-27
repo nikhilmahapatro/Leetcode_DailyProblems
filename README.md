@@ -14,6 +14,7 @@
 | [0498-diagonal-traverse](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0679-24-game) |
+| [0830-largest-triangle-area](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0945-snakes-and-ladders) |
@@ -89,6 +90,7 @@
 | [0342-power-of-four](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0867-new-21-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -500,6 +502,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0830-largest-triangle-area) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Queue
 |  |
