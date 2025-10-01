@@ -10,6 +10,7 @@
 | [0037-sudoku-solver](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0135-candy) |
 | [0498-diagonal-traverse](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0594-longest-harmonious-subsequence) |
@@ -245,6 +246,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0120-triangle) |
 | [0826-soup-servings](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0934-bitwise-ors-of-subarrays) |
