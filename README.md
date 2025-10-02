@@ -113,6 +113,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -437,6 +438,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2479-meeting-rooms-iii) |
+| [3336-water-bottles-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3790-fruits-into-baskets-ii) |
 ## Linked List
