@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0073-set-matrix-zeroes) |
@@ -207,6 +208,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0135-candy) |
 | [1018-largest-perimeter-triangle](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1448-maximum-69-number) |
@@ -384,6 +386,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0165-compare-version-numbers) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
