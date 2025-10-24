@@ -119,6 +119,7 @@
 | [1448-maximum-69-number](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1642-water-bottles](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1642-water-bottles) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -199,6 +200,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2429-design-a-food-rating-system](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2429-design-a-food-rating-system) |
@@ -378,6 +380,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -426,6 +429,7 @@
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3201-distribute-candies-among-children-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3201-distribute-candies-among-children-ii) |
@@ -544,6 +548,7 @@
 | [0679-24-game](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Design
 |  |
 | ------- |
