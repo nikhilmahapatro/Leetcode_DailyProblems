@@ -82,6 +82,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3639-zero-array-transformation-i) |
@@ -176,6 +177,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2529-range-product-queries-of-powers) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3639-zero-array-transformation-i) |
@@ -522,6 +524,7 @@
 | [2479-meeting-rooms-iii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
