@@ -82,6 +82,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -139,6 +140,7 @@
 | [3321-type-of-triangle](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3462-vowels-game-in-a-string) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -220,6 +222,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
