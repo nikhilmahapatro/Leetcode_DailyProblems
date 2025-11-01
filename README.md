@@ -82,6 +82,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -222,6 +223,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -542,6 +544,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0002-add-two-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
