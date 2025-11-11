@@ -15,6 +15,7 @@
 | [0135-candy](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0135-candy) |
 | [0407-trapping-rain-water-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0679-24-game) |
@@ -316,6 +317,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0120-triangle) |
+| [0474-ones-and-zeroes](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0474-ones-and-zeroes) |
 | [0826-soup-servings](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -373,6 +375,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0165-compare-version-numbers](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0166-fraction-to-recurring-decimal) |
+| [0474-ones-and-zeroes](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0474-ones-and-zeroes) |
 | [1006-vowel-spellchecker](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/1264-maximum-number-of-words-you-can-type) |
