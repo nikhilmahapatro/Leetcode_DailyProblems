@@ -74,6 +74,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3194-find-words-containing-character](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -140,6 +141,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3201-distribute-candies-among-children-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -661,6 +663,7 @@
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bitmask
 |  |
