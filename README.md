@@ -89,6 +89,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -234,6 +235,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -312,6 +314,7 @@
 | [2429-design-a-food-rating-system](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3647-zero-array-transformation-iii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3678-design-task-manager) |
 ## Dynamic Programming
@@ -521,6 +524,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
