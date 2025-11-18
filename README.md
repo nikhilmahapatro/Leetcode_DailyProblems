@@ -19,6 +19,7 @@
 | [0498-diagonal-traverse](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0679-24-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0794-swim-in-rising-water](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/0934-bitwise-ors-of-subarrays) |
