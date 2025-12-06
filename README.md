@@ -95,6 +95,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -206,6 +207,7 @@
 | [2625-increment-submatrices-by-one](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -361,6 +363,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -543,6 +546,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -678,6 +682,7 @@
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3827-implement-router](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3827-implement-router) |
 ## Game Theory
 |  |
@@ -694,4 +699,8 @@
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/nikhilmahapatro/Leetcode_DailyProblems/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
